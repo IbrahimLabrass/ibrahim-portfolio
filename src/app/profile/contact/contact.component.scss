@@ -1,0 +1,25 @@
+a {
+    border-width: 2px;
+    font-weight: 400;
+    font-size: 0.8571em;
+    line-height: 1.35em;
+    margin: 5px 1px;
+    border: none;
+    border-radius: 0.1875rem;
+    padding: 11px 22px;
+    cursor: pointer;
+    background-color: rgb(21, 70, 95);
+    color: #FFFFFF;
+  }
+  .btn-success {
+    background-color: green;
+    color: white;
+    &:hover {
+      background-color: darkgreen;
+    }
+    i {
+      margin-right: 10px;
+    }
+  }
+  
+
