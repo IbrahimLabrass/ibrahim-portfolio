@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portfolio-ibrahim"
+  },
+  "targets": {
+    "portfolio-ibrahim": {
+      "hosting": {
+        "personal-portfoli-angular": [
+          "portfolio-ibrahim"
+        ]
+      }
+    }
+  }
+}
